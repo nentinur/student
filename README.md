@@ -2,13 +2,13 @@
 
 ## Screenshoot:
 
-[ADD NEW STUDENT](img/add.png)
+![ADD NEW STUDENT](img/add.png)
 
-[GET ALL STUDENT](img/getall.png)
+![GET ALL STUDENT](img/getall.png)
 
-[FIND STUDENT BY ID](img/find.png)
+![FIND STUDENT BY ID](img/find.png)
 
-[UPDATE STUDENT](img/update.png)
+![UPDATE STUDENT](img/update.png)
 
-[DELETE STUDENT](img/delete.png)
+![DELETE STUDENT](img/delete.png)
 
